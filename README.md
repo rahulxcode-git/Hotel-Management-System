@@ -51,9 +51,9 @@ Run the file to start the Hotel Management System.
 
 2.Login and Use the System:
 
-Use the default admin credentials to log in and start managing the hotel operations.
-password:-rahul //first Login Screen
-password:-rahul //second login screen that have after admin side
+Use the default admin credentials to log in and start managing the hotel operations.<br>
+password:-rahul //first Login Screen<br>
+password:-rahul //second login screen that have after admin side<br>
 
 3.Main Features:
 
@@ -63,9 +63,10 @@ Check-in/Check-out: Process customer check-ins and check-outs.
 Reports: Generate reports for management and accounting purposes.
 
 ## Important Message
+<br>
 //password for login screen
-password:-Rahul 
-//second login Screen password
+password:-Rahul<br> 
+//second login Screen password<br>
 password:-rahul
 
 
